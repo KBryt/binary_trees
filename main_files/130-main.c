@@ -21,7 +21,6 @@ binary_tree_t *basic_tree(void)
 
 /**
  * main - Entry point
- *
  * Return: Always 0 (Success)
  */
 int main(void)
